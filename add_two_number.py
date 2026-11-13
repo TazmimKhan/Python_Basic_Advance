@@ -3,3 +3,4 @@ second_number = float(input("Enter the second number: "))
 
 total = first_number + second_number
 print("Sum:", total)
+print("test")
